@@ -1,0 +1,5 @@
+{
+  "max_len": 200,
+  "vocab_size": 20000,
+  "embedding_dim": 100
+}
